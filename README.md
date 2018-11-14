@@ -1,7 +1,7 @@
 # BintrayPush
 a fast library for push your code to Bintray by config your  information in local.properties
 
-###如何使用
+### 如何使用
 
 在项目中的local.properties中根据自己的实际情况配置好下面信息
 
