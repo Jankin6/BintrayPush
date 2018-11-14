@@ -36,7 +36,7 @@ developerEmail = xxx
 在你要上传的library项目的build.gradle中引入如下：
 
 ```java
-apply from: 'https://github.com/wang0826jj/BintrayPush/bintray-config.gralde'
+apply from: 'https://raw.githubusercontent.com/wang0826jj/BintrayPush/master/bintray-config.gradle'
 ```
 
 然后依次执行
